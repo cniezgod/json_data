@@ -5,18 +5,18 @@
     "lastName": "Niezgodzki",
     "email": "cniezgod@nd.edu",
     "dorm": "Pasquerilla East Hall",
-    "on-off": "on",
-    "on-switch": "no",
-    "off-housing": " "
+    "onOff": "on",
+    "onSwitch": "no",
+    "offHousing": " "
   },
   {
     "firstName": "Gracie",
     "lastName": "Molnar",
     "email": "gmolnar1@nd.edu",
     "dorm": "Flaherty",
-    "on-off": "on",
-    "on-switch": "no",
-    "off-housing": " "
+    "onOff": "on",
+    "onSwitch": "no",
+    "offHousing": " "
   }
 ]
 }
